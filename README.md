@@ -23,3 +23,5 @@ npm i -D prettier eslint-config-prettier eslint-plugin-prettier
 npm i -D vitest
 
 npm i -D @testing-library/react @testing-library/jest-dom @testing-library/user-event jsdom
+
+npm install --save-dev @commitlint/config-conventional @commitlint/cli
