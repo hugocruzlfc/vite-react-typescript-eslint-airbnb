@@ -69,6 +69,7 @@ npm i -D eslint-config-airbnb-typescript
 npm i -D prettier eslint-config-prettier eslint-plugin-prettier
 npm i -D vitest
 npm i -D @testing-library/react @testing-library/jest-dom @testing-library/user-event jsdom
+npm i -D @vitest/coverage-v8 @vitest/ui
 npm install --save-dev @commitlint/config-conventional @commitlint/cli
 ```
 
